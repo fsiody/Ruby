@@ -1,0 +1,2 @@
+Napisz skrypt ktory korzystajac z klasy File wyswietla w
+osobnej linii kazdy wyraz podanego pliku tekstowego
